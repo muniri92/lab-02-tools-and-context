@@ -1,0 +1,19 @@
+{
+  "name": "lab-munir",
+  "version": "0.0.1",
+  "description": "Lab 2",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Munir Ibrahim",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.4.2"
+  }
+}
